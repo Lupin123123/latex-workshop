@@ -1,0 +1,21 @@
+\documentclass[a4paper]{article}
+
+\usepackage{multirow}
+\usepackage{longtable}
+\usepackage{supertabular}
+\usepackage{tabu}
+
+\begin{document}
+
+\begin{center}
+    \begin{tabular}[c]{|l|c||p{3em}r@{-}} 
+    \hline
+    % \hline
+    A & B & C & d\\D & E & F & g \\
+    \cline{1-3}
+    \multicolumn{2}{|c|}{G} & H & i \\
+    \hline
+    \end{tabular}
+\end{center}
+
+\end{document}

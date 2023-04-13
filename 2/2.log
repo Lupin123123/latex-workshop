@@ -1,0 +1,189 @@
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.1.18)  4 APR 2023 17:25
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**2
+(./2.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24> (d:/texlive/2022/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(d:/texlive/2022/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count181
+\c@section=\count182
+\c@subsection=\count183
+\c@subsubsection=\count184
+\c@paragraph=\count185
+\c@subparagraph=\count186
+\c@figure=\count187
+\c@table=\count188
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (d:/texlive/2022/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip49
+\multirow@cntb=\count189
+\multirow@dima=\skip50
+\bigstrutjot=\dimen139
+) (d:/texlive/2022/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
+\LTleft=\skip51
+\LTright=\skip52
+\LTpre=\skip53
+\LTpost=\skip54
+\LTchunksize=\count190
+\LTcapwidth=\dimen140
+\LT@head=\box50
+\LT@firsthead=\box51
+\LT@foot=\box52
+\LT@lastfoot=\box53
+\LT@gbox=\box54
+\LT@cols=\count191
+\LT@rows=\count192
+\c@LT@tables=\count193
+\c@LT@chunks=\count194
+\LT@p@ftn=\toks16
+) (d:/texlive/2022/texmf-dist/tex/latex/supertabular/supertabular.sty
+Package: supertabular 2020/02/02 v4.1g the supertabular environment
+\c@tracingst=\count195
+\ST@wd=\dimen141
+\ST@rightskip=\skip55
+\ST@leftskip=\skip56
+\ST@parfillskip=\skip57
+\ST@pageleft=\dimen142
+\ST@headht=\dimen143
+\ST@tailht=\dimen144
+\ST@pagesofar=\dimen145
+\ST@pboxht=\dimen146
+\ST@lineht=\dimen147
+\ST@prevht=\dimen148
+\ST@toadd=\dimen149
+\ST@dimen=\dimen150
+\ST@pbox=\box55
+) (d:/texlive/2022/texmf-dist/tex/latex/tabu/tabu.sty
+Package: tabu 2019/01/11 v2.9 - flexible LaTeX tabulars (FC+tabu-fixed)
+ (d:/texlive/2022/texmf-dist/tex/latex/tools/array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen151
+\ar@mcellbox=\box56
+\extrarowheight=\dimen152
+\NC@list=\toks17
+\extratabsurround=\skip58
+\backup@length=\skip59
+\ar@cellbox=\box57
+) (d:/texlive/2022/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box58
+\sift@deathcycles=\count196
+\@vwid@loff=\dimen153
+\@vwid@roff=\dimen154
+)
+\c@taburow=\count197
+\tabu@nbcols=\count198
+\tabu@cnt=\count199
+\tabu@Xcol=\count266
+\tabu@alloc=\count267
+\tabu@nested=\count268
+\tabu@target=\dimen155
+\tabu@spreadtarget=\dimen156
+\tabu@naturalX=\dimen157
+\tabucolX=\dimen158
+\tabu@Xsum=\dimen159
+\extrarowdepth=\dimen160
+\abovetabulinesep=\dimen161
+\belowtabulinesep=\dimen162
+\tabustrutrule=\dimen163
+\tabu@thebody=\toks18
+\tabu@footnotes=\toks19
+\tabu@box=\box59
+\tabu@arstrutbox=\box60
+\tabu@hleads=\box61
+\tabu@vleads=\box62
+\tabu@cellskip=\skip60
+) (d:/texlive/2022/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
+\c@tracingmulticols=\count269
+\mult@box=\box63
+\multicol@leftmargin=\dimen164
+\c@unbalance=\count270
+\c@collectmore=\count271
+\doublecol@number=\count272
+\multicoltolerance=\count273
+\multicolpretolerance=\count274
+\full@width=\dimen165
+\page@free=\dimen166
+\premulticols=\dimen167
+\postmulticols=\dimen168
+\multicolsep=\skip61
+\multicolbaselineskip=\skip62
+\partial@page=\box64
+\last@line=\box65
+\maxbalancingoverflow=\dimen169
+\mult@rightbox=\box66
+\mult@grightbox=\box67
+\mult@firstbox=\box68
+\mult@gfirstbox=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\@tempa=\box105
+\c@minrows=\count275
+\c@columnbadness=\count276
+\c@finalcolumnbadness=\count277
+\last@try=\dimen170
+\multicolovershoot=\dimen171
+\multicolundershoot=\dimen172
+\mult@nat@firstbox=\box106
+\colbreak@box=\box107
+\mc@col@check@num=\count278
+))
+! Emergency stop.
+<*> 2
+     
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 1455 strings out of 476179
+ 21875 string characters out of 5813072
+ 323969 words of memory out of 5000000
+ 22273 multiletter control sequences out of 15000+600000
+ 469267 words of font info for 29 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 47i,0n,48p,160b,40s stack positions out of 10000i,1000n,20000p,200000b,200000s
+No pages of output.

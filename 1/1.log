@@ -1,0 +1,156 @@
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2023.1.18)  4 APR 2023 16:54
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**1
+(./1.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24> (d:/texlive/2022/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(d:/texlive/2022/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count181
+\c@section=\count182
+\c@subsection=\count183
+\c@subsubsection=\count184
+\c@paragraph=\count185
+\c@subparagraph=\count186
+\c@figure=\count187
+\c@table=\count188
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (d:/texlive/2022/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip49
+\multirow@cntb=\count189
+\multirow@dima=\skip50
+\bigstrutjot=\dimen139
+) (d:/texlive/2022/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
+\LTleft=\skip51
+\LTright=\skip52
+\LTpre=\skip53
+\LTpost=\skip54
+\LTchunksize=\count190
+\LTcapwidth=\dimen140
+\LT@head=\box50
+\LT@firsthead=\box51
+\LT@foot=\box52
+\LT@lastfoot=\box53
+\LT@gbox=\box54
+\LT@cols=\count191
+\LT@rows=\count192
+\c@LT@tables=\count193
+\c@LT@chunks=\count194
+\LT@p@ftn=\toks16
+) (d:/texlive/2022/texmf-dist/tex/latex/supertabular/supertabular.sty
+Package: supertabular 2020/02/02 v4.1g the supertabular environment
+\c@tracingst=\count195
+\ST@wd=\dimen141
+\ST@rightskip=\skip55
+\ST@leftskip=\skip56
+\ST@parfillskip=\skip57
+\ST@pageleft=\dimen142
+\ST@headht=\dimen143
+\ST@tailht=\dimen144
+\ST@pagesofar=\dimen145
+\ST@pboxht=\dimen146
+\ST@lineht=\dimen147
+\ST@prevht=\dimen148
+\ST@toadd=\dimen149
+\ST@dimen=\dimen150
+\ST@pbox=\box55
+) (d:/texlive/2022/texmf-dist/tex/latex/tabu/tabu.sty
+Package: tabu 2019/01/11 v2.9 - flexible LaTeX tabulars (FC+tabu-fixed)
+ (d:/texlive/2022/texmf-dist/tex/latex/tools/array.sty
+Package: array 2021/10/04 v2.5f Tabular extension package (FMi)
+\col@sep=\dimen151
+\ar@mcellbox=\box56
+\extrarowheight=\dimen152
+\NC@list=\toks17
+\extratabsurround=\skip58
+\backup@length=\skip59
+\ar@cellbox=\box57
+) (d:/texlive/2022/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box58
+\sift@deathcycles=\count196
+\@vwid@loff=\dimen153
+\@vwid@roff=\dimen154
+)
+\c@taburow=\count197
+\tabu@nbcols=\count198
+\tabu@cnt=\count199
+\tabu@Xcol=\count266
+\tabu@alloc=\count267
+\tabu@nested=\count268
+\tabu@target=\dimen155
+\tabu@spreadtarget=\dimen156
+\tabu@naturalX=\dimen157
+\tabucolX=\dimen158
+\tabu@Xsum=\dimen159
+\extrarowdepth=\dimen160
+\abovetabulinesep=\dimen161
+\belowtabulinesep=\dimen162
+\tabustrutrule=\dimen163
+\tabu@thebody=\toks18
+\tabu@footnotes=\toks19
+\tabu@box=\box59
+\tabu@arstrutbox=\box60
+\tabu@hleads=\box61
+\tabu@vleads=\box62
+\tabu@cellskip=\skip60
+) (d:/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2022-02-07 L3 backend support: XeTeX
+ (|extractbb --version)
+\c__kernel_sys_dvipdfmx_version_int=\count269
+\l__color_backend_stack_int=\count270
+\g__color_backend_stack_int=\count271
+\g__graphics_track_int=\count272
+\l__pdf_internal_box=\box63
+\g__pdf_backend_object_int=\count273
+\g__pdf_backend_annotation_int=\count274
+\g__pdf_backend_link_int=\count275
+) (./1.aux)
+\openout1 = `1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 8.
+ (d:/texlive/2022/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 11.
+ [1
+
+] (./1.aux) ) 
+Here is how much of TeX's memory you used:
+ 1546 strings out of 476179
+ 25911 string characters out of 5813072
+ 326772 words of memory out of 5000000
+ 22352 multiletter control sequences out of 15000+600000
+ 469267 words of font info for 29 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 47i,7n,48p,142b,159s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on 1.pdf (1 page).
